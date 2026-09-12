@@ -1,0 +1,16 @@
+# Build output (APK jadi ada di root sebagai FAACC.apk)
+build/
+
+# Keystore (jangan commit key)
+*.keystore
+*.jks
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
