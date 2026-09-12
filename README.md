@@ -1,4 +1,4 @@
-# FAACC Standalone — Faa Agresive App Cache Cleaner (Build-in)
+# FAACC Standalone — Faa Agresive App Cache Cleaner (Built-in)
 
 Versi **mandiri** dari [FAACC](https://github.com/FaaRamadhann/FAACC) — cleaner **built-in di dalam APK**, tanpa module Magisk, tanpa CLI eksternal. Install langsung jalan (butuh root untuk scan & clean).
 
